@@ -1,3 +1,3 @@
-# StableProofs Minting interface
+# StableProofs Contracts
 
 Smart contracts that power StableProofs
