@@ -1,3 +1,3 @@
 # StableProofs Contracts
 
-Smart contracts that power StableProofs
+Smart contracts for StableProofs
